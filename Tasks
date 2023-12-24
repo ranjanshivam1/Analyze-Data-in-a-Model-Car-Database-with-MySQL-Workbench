@@ -1,8 +1,4 @@
-Absolutely! Here's how you might phrase it:
-
----
-
-Task 1 — Importing the Classic Car Model Database
+## Task 1 — Importing the Classic Car Model Database
 
 For this task, I'll begin by initiating the import of the Mint Classics relational database using MySQL Workbench. 
 To kickstart this process, I'll download the SQL file containing the script required for both creating and populating the database. 
