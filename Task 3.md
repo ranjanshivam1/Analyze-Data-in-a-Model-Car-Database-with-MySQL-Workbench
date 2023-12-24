@@ -43,7 +43,7 @@ These queries involve multiple table joins to evaluate sales employee performanc
 ## 6. Analyzing Customer Payment Trends: 
 <img width="362" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/79bac9fc-cf60-4bfb-bfa1-a6412a87b8ab">
 
-This query retrieves customer payment data and sorts it by payment amount, enabling the analysis of customer payment behavior and identification of high-paying customers.
+This query retrieves customer payment data and sorts it by payment amount, enabling the analysis of customer payment behavior and identification of high-paying customers. 
 <img width="336" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/e25b55a4-2edc-4918-b7af-3f356cd6d187">
 
 
