@@ -64,5 +64,4 @@ This query joins customer and payment tables, grouping by customers and credit l
 <img width="431" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/9c507fb5-77a8-4661-b610-8b8186e7eb82">
 
 
-
-These queries collectively aim to provide insights into inventory optimization, warehouse utilization, sales patterns, employee performance, customer behaviors, product line success, and credit policy evaluation at Mint Classics.
+## These queries collectively aim to provide insights into inventory optimization, warehouse utilization, sales patterns, employee performance, customer behaviors, product line success, and credit policy evaluation at Mint Classics.
