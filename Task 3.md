@@ -1,12 +1,13 @@
 ## Task 3 — Investigating Business Issues and Identifying Affected Tables
 
 ## 1. Identifying Overstocked Products with Low Sales: 
-<img width="283" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/7213612f-bcf4-4c89-8ea9-5f177b4f4344">
+<img width="282" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/ee6f98dc-040c-4046-be37-cbe7846ea81a">
 
 
 This query aims to find products that have excessive inventory levels but comparatively low sales. By comparing the quantity of the product available in stock against the total quantity ordered, we can identify products with an inventory surplus.
 
-<img width="429" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/f95f8d07-890a-42e3-acef-fb4542ccef92">
+<img width="424" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/42c6cddf-ad4f-4159-bdd1-935bd75d4910">
+
 
 ## 2. Assessing Warehouse Utilization:
 <img width="367" alt="image" src="https://github.com/ranjanshivam1/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/assets/132743857/5557ea50-b504-40ca-9602-920dc171065c">
